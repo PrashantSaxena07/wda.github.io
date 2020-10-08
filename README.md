@@ -1,2 +1,2 @@
 # wda.github.io
-Web Designing Assignments
+Web Designing Assignments using HTML
